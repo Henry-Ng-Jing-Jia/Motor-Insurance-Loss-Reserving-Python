@@ -16,6 +16,7 @@ Each case consists of 6 stages: First Notification of Loss (FNOL), Assign Claim,
 
 ## Key Output
 A table of the final 37×3 Monthly Cumulative Loss Triangle is generated and the projected ultimate loss figure and IBNR for the latest undeveloped cohort April 2023 are $1336638.69 and $63060.92 respectively.
+
 <img width="467" height="748" alt="image" src="https://github.com/user-attachments/assets/a4b1ebee-729c-4544-8091-09904eb05cb6" />
 
 
